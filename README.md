@@ -1,20 +1,29 @@
+# THIS IS NOT ABANDONED, I AM JUST VERY SLOW
+
 # YonKaGor Wiki
-The perfect wiki for all your information about our favourite fish lovin' furry musician, YonKaGor.
+The best wiki experience for all information about our favourite fish lovin' furry musician, YonKaGor.
 
 ### **ALL INFORMATION TAKEN FROM THE [KENNYON FANDOM WIKI](https://kennyon.fandom.com/wiki/KennYon_Wiki)**
 
 ## General Info
 Hi! This is just something I'm doing as a hobby because I have nothing better to do.
 
-**Fandom sucks.** It's just full of ads and it sucks to use. Wouldn't it be great if you had a place for all your YonKaGor (Sorry Kenny) information? Introducing the [YonKaGor Wiki](https://yonkagor.wiki)! A place where you can get all the same information, minus the ads! I've tried my best to replicate the style and look of the Fandom Wiki, with some tweaks of course.
+I have big issues with Fandom and how it's run, and I simply wanted to recreate it for public use.
 
-Now while it's not my intention for this to be a full on *replacement* for the Fandom Wiki, after all, the information will never ever be as up to date as it is on fandom, I do hope some people can use this as a simple way of viewing the same information, more comfortably.
-
-_btw pls dont like analyse my code and make fun of it or smth pls im not that good ik the code sucks gimme a break this is like the first actual thing ive coded :c_
+It is **not** my intention for this to be a full on *replacement* for the Fandom Wiki. After all, the information will never ever be as up to date as it is on Fandom.
 
 ## Website Info
 
-The website is hosted on [Neocities.org](https://neocities.org) with the domain [yonkagor.wiki](https://yonkagor.wiki)
+The website is hosted on [Neocities.org](https://neocities.org) under the domain [yonkagor.wiki](https://yonkagor.wiki)
+
+## Disclaimers
+
+AI has not been involved in any step of the process of making this.
+
+All information and some code has been taken directly from the Kennyon Fandom Wiki.
+
+If anyone on the Kennyon Fandom Wiki team would like to contact me regarding this project, be it to take it down or anything else, get in contact with me.
+
 
 ## Progress Table
 
@@ -27,13 +36,14 @@ A table of all the pages I am recreating.
 | [Artificial Abandonment](https://yonkagor.wiki/Artificial_Abandonment) | Done ✓ |
 | [Betta](https://yonkagor.wiki/Betta) | Done ✓ |
 | [Biased Truth](https://yonkagor.wiki/Biased_Truth) | Done ✓ |
-| Bitter and Blunt | Started ••• |
-| Blue Bird | Not Started ✕ |
-| Buddy Holly | Not Started ✕ |
-| Butcher Vanity | Not Started ✕ |
-| Charried and Wine | Not Started ✕ |
-| Circus Hop | Not Started ✕ |
-| Clownfish | Not Started ✕ |
+| [Bitter and Blunt](https://yonkagor.wiki/Bitter_and_Blunt) | Done ✓ |
+| [Blue Bird](https://yonkagor.wiki/Blue_Bird) | Done ✓ |
+| [Buddy Holly](https://yonkagor.wiki/Buddy_Holly) | Done ✓ |
+| [Butcher Vanity](https://yonkagor.wiki/Butcher_Vanity) | Done ✓ |
+| [Cherries and Wine](https://yonkagor.wiki/Cherries_and_Wine) | Done ✓ |
+| [Circus Hop](https://yonkagor.wiki/Circus_Hop) | Done ✓ |
+| [Clownfish](https://yonkagor.wiki/Clownfish) | Done ✓ |
+| [Clione](https://yonkagor.wiki/Clione) | Done ✓ |
 | Colorpencil | Not Started ✕ |
 | Convict | Not Started ✕ |
 | Copycat | Not Started ✕ |
@@ -58,7 +68,10 @@ A table of all the pages I am recreating.
 | Linger in the Rain | Not Started ✕ |
 | Lone Dance | Not Started ✕ |
 | Lower | Not Started ✕ |
+| Magni | Not Started ✕ |
 | March | Not Started ✕ |
+| Our Season | Not Started ✕ |
+| Our Summer Dreams | Not Started ✕ |
 | Memory Merge | Not Started ✕ |
 | Mr. Sunfish (Character) | Not Started ✕ |
 | Mr. Sunfish (Song) | Not Started ✕ |
@@ -66,6 +79,7 @@ A table of all the pages I am recreating.
 | Paper Alibis | Not Started ✕ |
 | Paper Alibis EP | Not Started ✕ |
 | Papercraft | Not Started ✕ |
+| Quadri | Not Started ✕ |
 | Rempong | Not Started ✕ |
 | Routine | Not Started ✕ |
 | Sandbar | Not Started ✕ |
@@ -93,6 +107,3 @@ A table of all the pages I am recreating.
 | You Made Me Fall In Love | Not Started ✕ |
 | You'll Be Gone | Not Started ✕ |
 | You're Just Like Pop Music | Not Started ✕ |
-| Characters | Started ••• |
-| Covers | Started ••• |
-| Songs | Started ••• |
